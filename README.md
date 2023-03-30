@@ -1,5 +1,5 @@
 # About Me:
-- I'm a Full Stack Web Developer<br>- Working on some of my own Projects<br>- I'm currently learning Node & Express JS<br>🤞Ask me anything about Web & InfoSec<br><br>
+- I'm a Full Stack Web Developer<br> - Working on some of my own Projects<br> - I'm currently learning Node & Express JS<br>🤞Ask me anything about Web & InfoSec<br><br>
 
 
 # Tech Stack:
