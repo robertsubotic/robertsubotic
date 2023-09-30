@@ -2,7 +2,7 @@
 - I'm a Full Stack Web Developer<br> 
 - Working on some of my own Projects<br> 
 - I'm currently learning PHP<br>
-- 🤞Ask me anything about Web & InfoSec<br><br>
+- 🤞Ask me anything about Web<br><br>
 
 <hr>
 
