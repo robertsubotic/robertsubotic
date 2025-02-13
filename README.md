@@ -1,7 +1,7 @@
 # About Me:
 - I'm a Full Stack Web Developer<br> 
 - Working on some of my own Projects<br> 
-- I'm currently learning PHP<br>
+- I'm currently learning more about Web<br>
 - 🤞Ask me anything about Web<br><br>
 
 <hr>
